@@ -1,0 +1,49 @@
+name: raven.rempel
+description: Multi-channelled
+version: 0.0.1
+author: uucf10oo.5mxymxsp@3imf0fpw.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: ravenrempel
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:48:00'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:48:00'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:48:00.121467Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '604520856'
+  createdAt: '2024-12-08T23:48:00.121467Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
